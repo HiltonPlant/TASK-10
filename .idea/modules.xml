@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TASK 10.iml" filepath="$PROJECT_DIR$/TASK 10.iml" />
       <module fileurl="file://$PROJECT_DIR$/habit.items/habit.items.iml" filepath="$PROJECT_DIR$/habit.items/habit.items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/habit.main/habit.main.iml" filepath="$PROJECT_DIR$/habit.main/habit.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/habit.user/habit.user.iml" filepath="$PROJECT_DIR$/habit.user/habit.user.iml" />
     </modules>
   </component>
